@@ -4,8 +4,10 @@ The whole system is developed in node js and WebRTC and you can view the video b
 
 ## About Developer 
 
-Adarsh shukla is an engineering graduate from AKTU. Also doing research in machine learning (Artificial Intelligence).
-Expertise in node.js, php, hybride app development, java development.
+Adarsh shukla is an engineering graduate from AKTU. Also doing research in machine learning (Artificial Intelligence).Adarsh is 
+expert in node.js, php, hybride app development, java development.
+
+He also did many projects and research with node js and webRTC.
 
 ## Contact
 
